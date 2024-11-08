@@ -1,7 +1,7 @@
 {
     "name": "Skillmap",
     "version": "0.0.1",
-    "description": "",
+    "description": "A basic skillmap",
     "dependencies": {
         "device": "*"
     },

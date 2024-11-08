@@ -2,6 +2,10 @@
 
 * title: White Belt Skill Map
 * description: Learn the basics with the White Belt skill map!
+* backgroundurl: /static/Background.jpeg
+* primarycolor: "#FFFFFF"
+* secondarycolor: "#000000"
+
 
 ## path1
 

@@ -32,8 +32,6 @@ game.onUpdateInterval(5000, function () {
 
 ## Introduction @unplugged
 
-![Psyched Monkey](/static/skillmap/interface/monkey.png "Psyched Monkey is Ready!" )
-
 **Are you ready to start coding your own games?**
 
 Complete this tutorial to learn how to:
@@ -106,5 +104,4 @@ connected, duplicated, and deleted.
 
 Keep going to learn more about blocks.
 
-![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
 
