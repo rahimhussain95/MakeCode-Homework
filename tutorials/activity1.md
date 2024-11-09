@@ -103,5 +103,3 @@ Blocks can be dragged out from the  [__*toolbox*__](#tools "The strip to the lef
 connected, duplicated, and deleted.
 
 Keep going to learn more about blocks.
-
-

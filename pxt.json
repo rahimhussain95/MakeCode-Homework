@@ -1,5 +1,5 @@
 {
-    "name": "Skillmap",
+    "name": "skillmap",
     "version": "0.0.1",
     "description": "A basic skillmap",
     "dependencies": {
@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "skillmap.md",
-        "tutorials/white/firstdegree.md"
+        "tutorials/activity1.md"
     ],
     "testFiles": [
     ],

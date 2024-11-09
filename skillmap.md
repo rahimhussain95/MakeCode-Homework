@@ -1,21 +1,12 @@
-# white-belt-skillmap
+# White_Belt
+* name: White Belt 
+* description: White Curriculum
 
-* title: White Belt Skill Map
-* description: Learn the basics with the White Belt skill map!
-* backgroundurl: /static/Background.jpeg
-* primarycolor: "#FFFFFF"
-* secondarycolor: "#000000"
+## Assignment
+* name: White Belt First Degree
+* description: Supplemental First Degree Homework
 
-
-## path1
-
-* title: First Degree White Belt Path
-* description: This path covers the basics of setting a background and creating sprites.
-
-### path1-activity1
-
-* title: Create a Background
-* description: Learn how to set a background color.
+### Make your own sprite
+* name: Sprites
 * type: tutorial
-* url: /tutorials/white/firstdegree.md
-
+* description: This is the first activity
