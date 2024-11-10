@@ -7,7 +7,9 @@
     },
     "files": [
         "README.md",
-        "skillmap.md",
+        "skillmaps/white/skillmap1.md",
+        "skillmaps/white//tutorials/activity1_1.md",
+        "skillmaps/white/skillmap2.md",
         "tutorials/activity1.md"
     ],
     "testFiles": [
