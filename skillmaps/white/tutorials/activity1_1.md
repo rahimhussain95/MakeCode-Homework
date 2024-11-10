@@ -32,8 +32,6 @@ game.onUpdateInterval(5000, function () {
 
 ## Introduction @unplugged
 
-![Psyched Monkey](/static/skillmap/interface/monkey.png "Psyched Monkey is Ready!" )
-
 **Are you ready to start coding your own games?**
 
 Complete this tutorial to learn how to:
@@ -106,8 +104,6 @@ connected, duplicated, and deleted.
 
 Keep going to learn more about blocks.
 
-![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
-
 
 
 ## Your Toolbox
@@ -169,11 +165,6 @@ play around with it until a [__*sprite*__](#sprote "A 2-D image that moves on th
 **Tip:** Drag ``||game:splash "___"||`` out of the ``||loops:on start||`` container
 and drop it back into the toolbox to delete it so your sprite will be revealed!
 
-#### ~ tutorialhint
-
-![Open image editor](/static/skillmap/misc/open-image-editor-small.gif "How to open the image editor." )
-
----
 
 
 
@@ -263,9 +254,7 @@ Value blocks are special pieces that add information to other
 blocks. Sometimes they're pointy, sometimes they're rounded,
 but they always need another block to snap into. Value blocks look something like this:
 
-![Value Blocks](/static/skillmap/interface/parameter-blocks.png "This is what the shape of an value block looks like" )
 
----
 
 🔲  Snap a ``||sprites:[mySprite] say [":)"] ||`` block into the end of the
 **on A button pressed** container.
