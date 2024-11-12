@@ -16,13 +16,3 @@
 
 * url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/activity1_1
 
-## Level 2
-
-* name: level 2
-* description : add mechanics
-
-### Add sound and background!
-
-* name: Music time!
-* type: tutorial
-* description: this is the 2nd activity
