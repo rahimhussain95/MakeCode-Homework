@@ -2,12 +2,12 @@
 
 # Introduction @unplugged
 
-** Let's make a sprite!"
+** Let's make a sprite!" **
 
 You're going to make your first sprite.
 
 ## Create a sprite
-** Make a character **
+**Make a character**
 
 ---
 
