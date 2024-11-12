@@ -14,5 +14,5 @@
 * type: tutorial
 * description: This is the first activity
 
-* url: https://rahimhussain95.github.io/MakeCode-Homework/skillmaps/tutorials/activity1_1.md
+* url: https://github.com/rahimhussain95/MakeCode-Homework/blob/main/skillmaps/white/tutorials/activity1_1.md
 
