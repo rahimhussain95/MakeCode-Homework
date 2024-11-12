@@ -1,6 +1,7 @@
 # Create your first Sprite
 
 ## Step 1
+### @showdialog
 
 First let's creat your first sprite! 
 
