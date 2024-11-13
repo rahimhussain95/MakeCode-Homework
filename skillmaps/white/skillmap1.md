@@ -15,7 +15,7 @@
 * description: This is the first activity
 * tags: easy
 
-* url: https://raw.githubusercontent.com/rahimhussain95/MakeCode-Homework/main/skillmaps/white/tutorials/tutorial1-1.md
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-1
 
 
 
