@@ -1,5 +1,5 @@
 {
-    "name": "skillmap",
+    "name": "MakeCode-Homework",
     "version": "0.0.1",
     "description": "A basic skillmap",
     "dependencies": {
@@ -8,7 +8,7 @@
     "files": [
         "README.md",
         "skillmaps/white/skillmap1.md",
-        "skillmaps/white/tutorials/activity1_1.md"
+        "skillmaps/white/tutorials/tutorial1-1.md"
     ],
     "testFiles": [
     ],

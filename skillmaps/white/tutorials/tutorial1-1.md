@@ -1,8 +1,8 @@
 # Create your first Sprite
 
-# Introduction @unplugged
+## Introduction @showdialog
 
-** Let's make a sprite!" **
+** Let's make a sprite! **
 
 You're going to make your first sprite.
 

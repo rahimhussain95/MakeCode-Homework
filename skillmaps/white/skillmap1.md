@@ -1,19 +1,21 @@
-# White_Belt
+# white_Belt
 
-* name: White Belt First Degree
-* description: White Curriculum
+* name: White Belt Curriculum
+* description: Homework White Belt
 
-## White
+## white
 
-* name: White Belt First Degree
-* description: Supplemental First Degree Homework
+* name: White Belt First Degree 
+* description: This path covers the first degree of white belt.
 
-### White-tutorials-activity1_1
+### sprites
 
 * name: Sprites
 * type: tutorial
 * description: This is the first activity
+* tags: easy
 
-* url: https://raw.githubusercontent.com/rahimhussain95/MakeCode-Homework/main/skillmaps/white/tutorials/activity1_1.md
+* url: https://arcade.makecode.com/skillmap#github:rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-1
+
 
 
