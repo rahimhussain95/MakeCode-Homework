@@ -17,6 +17,7 @@
 * tags: easy
 
 * url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-1
+* imageUrl: https://raw.githubusercontent.com/rahimhussain95/MakeCode-Homework/main/static/BackgroundWhite.png
 
 
 
