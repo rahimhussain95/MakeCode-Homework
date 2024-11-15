@@ -2,11 +2,7 @@
 
 * name: White Belt Curriculum
 * description: Homework White Belt
-* backgroundurl: /static/BackgroundWhite.png
-* primarycolor: #2EA9B0
-* secondarycolor: #F392BD
-* tertiarycolor: #83C252
-* highlightcolor: #FAED28
+* backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/blob/main/static/BackgroundWhite.png?raw=true
 
 ## white
 
