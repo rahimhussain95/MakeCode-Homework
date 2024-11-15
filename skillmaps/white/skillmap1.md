@@ -3,6 +3,10 @@
 * name: White Belt Curriculum
 * description: Homework White Belt
 * backgroundurl: /static/BackgroundWhite.png
+* primarycolor: #2EA9B0
+* secondarycolor: #F392BD
+* tertiarycolor: #83C252
+* highlightcolor: #FAED28
 
 ## white
 
