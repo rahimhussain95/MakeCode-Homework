@@ -2,7 +2,7 @@
 
 * name: White Belt Curriculum
 * description: Homework White Belt
-* backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/blob/main/static/BackgroundWhite.png?raw=true
+* backgroundurl: https://raw.githubusercontent.com/rahimhussain95/MakeCode-Homework/main/static/BackgroundWhite.png
 
 ## white
 
