@@ -2,7 +2,8 @@
 
 * name: White Belt Curriculum
 * description: Homework White Belt
-* backgroundurl:  ../../static/BackgroundWhite.png
+* backgroundurl: /static/BackgroundWhite.png
+
 
 ## white
 
