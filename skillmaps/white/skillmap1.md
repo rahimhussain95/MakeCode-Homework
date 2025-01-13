@@ -3,7 +3,7 @@
 * name: White Belt Curriculum
 * description: Homework White Belt
 * backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/raw/main/static/BackgroundWhite.png
-* tertiarycolor: #76b5c5
+* tertiarycolor:rgb(94, 187, 211)
 
 
 ## white
