@@ -1,18 +1,18 @@
-# white_Belt
+# yellow_belt
 
-* name: White Belt Curriculum
+* name: Yellow Belt Curriculum
 * description: Homework White Belt
-* backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/raw/main/static/BackgroundWhite.png
+* backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/raw/main/static/BackgroundYellow.png
 * primarycolor: 
 * secondarycolor:
 * tertiarycolor:rgb(94, 187, 211)
 * highlightcolor: 
 
 
-## white_first_degree
+## yellow_first_degree
 
-* name: White Belt First Degree 
-* description: This path introduces basic concepts for students in the White Belt curriculum.
+* name: Yellow Belt First Degree 
+* description: This path introduces intermediate concepts for students in the Yellow Belt curriculum.
 
 ### sprites
 
@@ -107,10 +107,3 @@
 
 * url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-4
 * imageUrl: 
-
-
-
-
-
-
-
