@@ -2,9 +2,9 @@
 
 ## Introduction @showdialog
 
-** Let's make a sprite! **
+** Let's create a sprite and a setting! **
 
-You're going to make your first sprite.
+You're going to make a character and create a world that the character can interact with!
 
 
 ## Design the hero of your story!
