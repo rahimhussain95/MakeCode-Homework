@@ -61,6 +61,7 @@
 
 ### white_first_degree_finish
 
+* name: White Belt First Degree Complete!
 * type: certificate
 * kind: completion
 * url: 
@@ -100,7 +101,7 @@
 * description: Learn to use game timers, scores, lives, and countdown variables for tracking game state.
 * type: tutorial
 * tags: variables, game state, beginner
-* animation_and_sound
+* next: animation_and_sound
 
 * url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-3
 * imageUrl: 
@@ -111,9 +112,17 @@
 * description: Utilize animation blocks to make sprites move and add music! Further explore conditions for creative gameplay.
 * type: tutorial
 * tags: animation, music, conditionals
+* next: white_second_degree_finish
 
 * url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-4
 * imageUrl: 
+
+### white_second_degree_finish
+
+* name: White Belt Second Degree Complete!
+* type: certificate
+* kind: completion
+* url: 
 
 
 
