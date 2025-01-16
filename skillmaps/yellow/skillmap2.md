@@ -1,109 +1,146 @@
-# yellow_belt
+# yellow_Belt
 
 * name: Yellow Belt Curriculum
-* description: Homework White Belt
+* description: Homework Yellow Belt
 * backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/raw/main/static/BackgroundYellow.png
 * primarycolor: 
-* secondarycolor:
-* tertiarycolor:rgb(94, 187, 211)
+* secondarycolor: 
+* tertiarycolor: rgb(94, 187, 211)
 * highlightcolor: 
 
 
 ## yellow_first_degree
 
-* name: Yellow Belt First Degree 
-* description: This path introduces intermediate concepts for students in the Yellow Belt curriculum.
+* name: Yellow Belt First Degree
+* description: This path focuses on mastering tilemaps, gameplay mechanics, and basic programming concepts.
 
-### sprites
+### creating_tilemaps
 
-* name: Sprites and Basics
+* name: Creating Tilemaps and Understanding Coordinates
 * type: tutorial
-* description: Learn to make the sprite say something, set its position, add splash and sound effects, and change its image.
-* tags: sprites, beginner, white
+* description: Learn to create tilemaps, set sprite locations using coordinates, edit tilemaps, set walls, and follow the sprite camera.
+* tags: tilemaps, sprite locations, beginner
+* next: tilemap_interactions
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-1
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-1
 * imageUrl: 
 
-### sequence_and_movement
+### tilemap_interactions
 
-* name: Movement and Sequence
-* description: Make sprites move, explore the importance of sequence in blocks, and create a story.
+* name: Tilemap Overlapping and Interactions
 * type: tutorial
-* tags: movement, sequence, storytelling
+* description: Implement tilemap overlapping and create interactions when a character overlaps specific tilemaps, including conditional interactions.
+* tags: tilemaps, overlap, interactions
+* next: user_input
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-2
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-2
 * imageUrl: 
 
+### user_input
 
-### booleans_and_controller
-
-* name: Controller and Booleans
-* description: Learn how to implement controllers and explore booleans for game mechanics.
+* name: User Input and Arrays
 * type: tutorial
-* tags: booleans, controller
+* description: Introduce user input, store input as a variable, and explore strings and arrays to manage data.
+* tags: input, variables, arrays
+* next: repeated_loops
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-3
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-3
 * imageUrl: 
 
-### character_interactions
+### repeated_loops
 
-* name: Character Interactions
-* description: Introduction to the overlap block and various variable interactions.
+* name: Repeated Loops and Conditionals
 * type: tutorial
-* tags: interactions, overlap, parameters
+* description: Use repeated loops for sprite interaction and explore for loops with arrays and conditionals.
+* tags: loops, conditionals, arrays
+* next: functions
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial1-4
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-4
 * imageUrl: 
 
-### white_first_degree_finish
+### functions
 
+* name: Creating Functions
+* type: tutorial
+* description: Learn to create your own functions, understand function parameters, and apply them in gameplay.
+* tags: functions, parameters, beginner
+* next: first_degree_complete
+
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-5
+* imageUrl: 
+
+### yellow_first_degree_finish
+
+* name: Yellow Belt First Degree Complete!
 * type: certificate
 * kind: completion
 * url: 
 
-## second_degree
 
-* name: White Belt Second Degree
-* description: This path dives deeper into variables, loops, randomness, conditionals, and animations.
+## yellow_second_degree
 
-### variables_and_applications
+* name: Yellow Belt Second Degree
+* description: Dive deeper into advanced gameplay mechanics and refine your game design skills.
 
-* name: Variables and Data Tracking
-* description: Learn to use game timers, scores, lives, and countdown variables for tracking game state.
+### advanced_tilemaps
+
+* name: 2D Tilemaps and Physics
 * type: tutorial
-* tags: variables, game state, beginner
+* description: Explore 2D tilemaps, physics with acceleration and velocity, and implement character movement using loops.
+* tags: 2D tilemaps, physics, interaction
+* next: logic_booleans
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-1
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-6
 * imageUrl: 
 
+### logic_booleans
 
-### loops_random
-
-* name: Loops and Randomness
-* description: Use loops, on-update events, random numbers, and velocity to introduce game variability.
+* name: Logic Operators and Booleans
 * type: tutorial
-* tags: loops, randomness, velocity, on-game update
+* description: Utilize logic operators for different scenarios, understand booleans, and implement NOT/OR booleans in interactions.
+* tags: logic operators, booleans
+* next: nested_loops
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-2
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-7
 * imageUrl: 
 
+### nested_loops
 
-### condition statements
-
-* name: Conditional Gameplay
-* description: Learn to use game timers, scores, lives, and countdown variables for tracking game state.
+* name: Nested Loops and Conditional Loops
 * type: tutorial
-* tags: variables, game state, beginner
+* description: Learn to use nested loops, for index loops, and while loops to create complex patterns and interactions.
+* tags: nested loops, conditionals
+* next: tilemap_switching
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-3
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-8
 * imageUrl: 
 
-### animation_and_sound
+### tilemap_switching
 
-* name: Animations and Music!
-* description: Utilize animation blocks to make sprites move and add music! Further explore conditions for creative gameplay.
+* name: Tilemap Switching and Location Blocks
 * type: tutorial
-* tags: animation, music, conditionals
+* description: Explore tilemap location blocks, tile placement using operators, switching between top-down and 2D, and connecting multiple tilemaps.
+* tags: tilemaps, switching, location blocks
+* next: dynamic_tilemaps
 
-* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/white/tutorials/tutorial2-4
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-9
 * imageUrl: 
+
+### dynamic_tilemaps
+
+* name: Dynamic Tilemaps and Status Bars
+* type: tutorial
+* description: Create dynamic tilemaps with scrolling backgrounds, and use status bars to display variables and conditions.
+* tags: dynamic tilemaps, status bars
+* next: second_degree_complete
+
+* url: https://github.com/rahimhussain95/MakeCode-Homework/skillmaps/yellow/tutorials/tutorial2-10
+* imageUrl: 
+
+### yellow_second_degree_finish
+
+* name: Yellow Belt Second Degree Complete!
+* type: certificate
+* kind: completion
+* url: 
+
