@@ -3,10 +3,10 @@
 * name: Yellow Belt Curriculum
 * description: Homework Yellow Belt
 * backgroundurl: https://github.com/rahimhussain95/MakeCode-Homework/raw/main/static/BackgroundYellow.png
-* primarycolor: 
-* secondarycolor: 
-* tertiarycolor: rgb(94, 187, 211)
-* highlightcolor: 
+* primarycolor: rgb(94, 187, 211)
+* secondarycolor: rgb(94, 187, 211)
+* tertiarycolor:rgb(94, 187, 211)
+* highlightcolor: rgb(94, 187, 211)
 
 
 ## yellow_first_degree
